@@ -1,2 +1,2 @@
 # laporan-rt-rw
-Just try to learn python (again) with flask
+Just trying to learn (again) about pyton with flask
